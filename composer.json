@@ -1,5 +1,5 @@
 {
-    "name": "stinger/contact",
+    "name": "stingerIRMarcio/contact",
     "description": "Enviar email para admin do projeto e salvar no bando de dados",
     "type": "library",
     "license": "MIT",
