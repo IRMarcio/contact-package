@@ -1,0 +1,19 @@
+{
+    "name": "stinger/contact",
+    "description": "Enviar email para admin do projeto e salvar no bando de dados",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcio Rozendo Rodrigues Goncalves",
+            "email": "adm.evento@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+     "psr-4": {
+         "Stinger\\Contact\\": "src/"
+     }
+    }
+}
