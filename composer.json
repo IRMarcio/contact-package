@@ -17,8 +17,10 @@
      }
     },
     "extra": {
-        "provider": [
-            "Stinger\\Contact\\ContactServidoProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Stinger\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
