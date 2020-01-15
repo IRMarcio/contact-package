@@ -15,5 +15,10 @@
      "psr-4": {
          "Stinger\\Contact\\": "src/"
      }
+    },
+    "extra": {
+        "provider": [
+            "Stinger\\Contact\\ContactServidoProvider"
+        ]
     }
 }
